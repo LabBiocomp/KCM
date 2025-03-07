@@ -97,8 +97,7 @@ $ python -m <KCM repository> -i demo_pdbs -t no_desc -n 1 -p 1
 
 This command will run KCM on a small protein for a single generation. The demo should take about 5 minutes to finish if the ESMFold API is used instead of a local installation. During execution, a file named `1y32_datos_guardados0.txt` will be created in the current directory. This file is created for each generation of the KCM evolutionary algorithm (in this case, only one generation is executed, so only one file is created), and describes the solutions found by each island (numbered 1 to 20). Relevant values in this file are the following:
 
-- `best_execution`: the amino acid sequences sampled from each probability distribution in the algorithm's population.
-- `best_execution_dist`: the amino acid probability distributions in the algorithm's population.
+- `best_execution`: the amino acid sequences sampled from each probability distribution in the algorithm's population. Each aminoacid is represented by an integer from 0 to 19.
 - `pdb_select`: the raw PDB prediction made by ESMFold for the sequence found by the algorithm with the best fitness value over-all. 
 
 ### Running the benchmark as described in the article
