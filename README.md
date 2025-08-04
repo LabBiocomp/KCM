@@ -31,7 +31,7 @@ The KCM program was tested in a Linux machine with the following characteristics
 
 ## Installation
 
-All package dependencies can be installed individually using Anaconda. Before installing these dependencies, modify the `~/.condarc` file to add the following channels:
+Before installing KCM's dependency packages, modify the `~/.condarc` file to add the following channels:
 
 **For WEST coast**:
 ```
@@ -45,7 +45,12 @@ channels:
     - https://conda.graylab.jhu.edu
 ```
 
-After adding this channel, run the following commands to install the required packages; notice that a new Anaconda environment, called `KCM`, will be created:
+Once this is done, there are two methods for installing the dependencies. 
+One method involves creating a new Anaconda virtual environment using the `environment.yml` file provided in this repository.
+To do this, simply run this command: `conda env create -f KCM/environment.yml`.
+
+The alternative method involves manually creating the new environment and installing the dependencies individually.
+To do this, run the following commands:
 
 ```bash
 $ conda create --name KCM python=3.7.13
@@ -59,7 +64,11 @@ $ conda install conda-forge::transformers=4.28.1
 $ conda install pyrosetta=2020.10
 ```
 
-Installing these packages should take about 25 minutes.
+Installing these packages should take about 25 minutes. 
+
+Regardless of the installation method used, an Anaconda virtual environment called `KCM` will be created.
+Remember to activate this environment before running the KCM algorithm.
+The environment can be activated by using the command: `conda activate KCM`.
 
 ### Using a local ESMFold installation with KCM
 
