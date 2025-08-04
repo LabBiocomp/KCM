@@ -1,4 +1,4 @@
-# KCM
+# KCM [![DOI](https://zenodo.org/badge/944675850.svg)](https://doi.org/10.5281/zenodo.16734499)
 
 This repository contains the source code for the evolutionary algorithm used in the article titled "An Evolutionary Algorithm for a Key-Cutting-Machine Approach in the Design of Proteins". This source code is provided mainly for the purpose of reproducing the results presented in said article.
 
