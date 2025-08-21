@@ -1,0 +1,139 @@
+HEADER                                            18-OCT-22                     
+TITLE     ESMFOLD V1 PREDICTION FOR INPUT
+REMARK   1                                                                      
+REMARK   1 REFERENCE 1                                                          
+REMARK   1  AUTH   ZEMING LIN, HALIL AKIN, ROSHAN RAO, BRIAN HIE, ZHONGKAI ZHU,
+REMARK   1  AUTH 2 WENTING LU, NIKITA SMETANIN, ROBERT VERKUIL, ORI KABELI,
+REMARK   1  AUTH 3 YANIV SHMUELI, ALLAN DOS SANTOS COSTA,
+REMARK   1  AUTH 4 MARYAM FAZEL-ZARANDI, TOM SERCU, SALVATORE CANDIDO,
+REMARK   1  AUTH 5 ALEXANDER RIVES
+REMARK   1  TITL   EVOLUTIONARY-SCALE PREDICTION OF ATOMIC LEVEL PROTEIN
+REMARK   1  TITL 2 STRUCTURE WITH A LANGUAGE MODEL
+REMARK   1  REF                                                                 
+REMARK   1  REFN                                                                
+REMARK   1  PMID                                                                
+REMARK   1  DOI    10.1101/2022.07.20.500902                                    
+REMARK   1                                                                      
+REMARK   1 LICENSE AND DISCLAIMERS                
+REMARK   1 ESM METAGENOMIC ATLAS DATA IS AVAILABLE UNDER
+REMARK   1 A CC-BY-4.0 LICENSE FOR ACADEMIC AND COMMERCIAL USE.
+REMARK   1 COPYRIGHT (C) META PLATFORMS, INC. ALL RIGHTS RESERVED.
+REMARK   1 USE OF THE ESM METAGENOMIC ATLAS DATA IS SUBJECT
+REMARK   1 TO THE META OPEN SOURCE TERMS OF USE AND PRIVACY POLICY.
+ATOM      1  N   HIS A   1      -2.492   1.704   5.199  1.00  0.67           N  
+ATOM      2  CA  HIS A   1      -3.655   1.388   4.378  1.00  0.68           C  
+ATOM      3  C   HIS A   1      -3.605   2.126   3.044  1.00  0.68           C  
+ATOM      4  CB  HIS A   1      -4.946   1.735   5.122  1.00  0.61           C  
+ATOM      5  O   HIS A   1      -3.990   1.576   2.011  1.00  0.64           O  
+ATOM      6  CG  HIS A   1      -5.314   0.744   6.180  1.00  0.58           C  
+ATOM      7  CD2 HIS A   1      -6.487   0.517   6.817  1.00  0.57           C  
+ATOM      8  ND1 HIS A   1      -4.411  -0.157   6.701  1.00  0.60           N  
+ATOM      9  CE1 HIS A   1      -5.015  -0.899   7.614  1.00  0.55           C  
+ATOM     10  NE2 HIS A   1      -6.275  -0.510   7.703  1.00  0.53           N  
+ATOM     11  N   TRP A   2      -3.014   3.390   3.023  1.00  0.60           N  
+ATOM     12  CA  TRP A   2      -2.830   4.330   1.922  1.00  0.60           C  
+ATOM     13  C   TRP A   2      -1.789   3.813   0.934  1.00  0.59           C  
+ATOM     14  CB  TRP A   2      -2.412   5.704   2.451  1.00  0.54           C  
+ATOM     15  O   TRP A   2      -1.965   3.929  -0.281  1.00  0.56           O  
+ATOM     16  CG  TRP A   2      -3.559   6.559   2.900  1.00  0.52           C  
+ATOM     17  CD1 TRP A   2      -4.063   6.664   4.166  1.00  0.47           C  
+ATOM     18  CD2 TRP A   2      -4.349   7.426   2.080  1.00  0.49           C  
+ATOM     19  CE2 TRP A   2      -5.315   8.026   2.918  1.00  0.48           C  
+ATOM     20  CE3 TRP A   2      -4.334   7.754   0.718  1.00  0.62           C  
+ATOM     21  NE1 TRP A   2      -5.119   7.545   4.184  1.00  0.62           N  
+ATOM     22  CH2 TRP A   2      -6.221   9.241   1.099  1.00  0.58           C  
+ATOM     23  CZ2 TRP A   2      -6.258   8.938   2.436  1.00  0.63           C  
+ATOM     24  CZ3 TRP A   2      -5.272   8.661   0.241  1.00  0.54           C  
+ATOM     25  N   HIS A   3      -0.842   3.090   1.377  1.00  0.61           N  
+ATOM     26  CA  HIS A   3       0.223   2.652   0.482  1.00  0.59           C  
+ATOM     27  C   HIS A   3      -0.236   1.492  -0.394  1.00  0.60           C  
+ATOM     28  CB  HIS A   3       1.462   2.246   1.283  1.00  0.57           C  
+ATOM     29  O   HIS A   3       0.203   1.362  -1.539  1.00  0.60           O  
+ATOM     30  CG  HIS A   3       2.166   3.399   1.924  1.00  0.56           C  
+ATOM     31  CD2 HIS A   3       3.126   4.229   1.451  1.00  0.52           C  
+ATOM     32  ND1 HIS A   3       1.905   3.807   3.214  1.00  0.55           N  
+ATOM     33  CE1 HIS A   3       2.675   4.841   3.507  1.00  0.51           C  
+ATOM     34  NE2 HIS A   3       3.426   5.117   2.454  1.00  0.49           N  
+ATOM     35  N   ASN A   4      -1.193   0.928   0.091  1.00  0.60           N  
+ATOM     36  CA  ASN A   4      -1.733  -0.250  -0.579  1.00  0.60           C  
+ATOM     37  C   ASN A   4      -2.781   0.128  -1.622  1.00  0.59           C  
+ATOM     38  CB  ASN A   4      -2.327  -1.223   0.442  1.00  0.56           C  
+ATOM     39  O   ASN A   4      -2.873  -0.507  -2.674  1.00  0.58           O  
+ATOM     40  CG  ASN A   4      -1.280  -2.117   1.076  1.00  0.55           C  
+ATOM     41  ND2 ASN A   4      -1.463  -2.433   2.352  1.00  0.53           N  
+ATOM     42  OD1 ASN A   4      -0.313  -2.519   0.424  1.00  0.54           O  
+ATOM     43  N   LYS A   5      -3.370   1.302  -1.473  1.00  0.61           N  
+ATOM     44  CA  LYS A   5      -4.370   1.780  -2.423  1.00  0.60           C  
+ATOM     45  C   LYS A   5      -3.710   2.366  -3.668  1.00  0.61           C  
+ATOM     46  CB  LYS A   5      -5.276   2.825  -1.769  1.00  0.57           C  
+ATOM     47  O   LYS A   5      -4.215   2.203  -4.780  1.00  0.60           O  
+ATOM     48  CG  LYS A   5      -6.687   2.863  -2.337  1.00  0.55           C  
+ATOM     49  CD  LYS A   5      -7.544   3.908  -1.635  1.00  0.55           C  
+ATOM     50  CE  LYS A   5      -8.877   4.108  -2.344  1.00  0.47           C  
+ATOM     51  NZ  LYS A   5      -9.758   5.064  -1.609  1.00  0.41           N  
+ATOM     52  N   VAL A   6      -2.482   2.719  -3.632  1.00  0.62           N  
+ATOM     53  CA  VAL A   6      -1.799   3.291  -4.788  1.00  0.61           C  
+ATOM     54  C   VAL A   6      -1.141   2.179  -5.602  1.00  0.62           C  
+ATOM     55  CB  VAL A   6      -0.744   4.337  -4.364  1.00  0.58           C  
+ATOM     56  O   VAL A   6      -1.100   2.243  -6.833  1.00  0.61           O  
+ATOM     57  CG1 VAL A   6       0.015   4.863  -5.580  1.00  0.51           C  
+ATOM     58  CG2 VAL A   6      -1.408   5.486  -3.606  1.00  0.53           C  
+ATOM     59  N   LEU A   7      -0.575   1.086  -5.032  1.00  0.62           N  
+ATOM     60  CA  LEU A   7       0.082  -0.029  -5.707  1.00  0.61           C  
+ATOM     61  C   LEU A   7      -0.919  -0.828  -6.535  1.00  0.61           C  
+ATOM     62  CB  LEU A   7       0.766  -0.945  -4.689  1.00  0.58           C  
+ATOM     63  O   LEU A   7      -0.640  -1.181  -7.684  1.00  0.61           O  
+ATOM     64  CG  LEU A   7       2.125  -1.515  -5.096  1.00  0.56           C  
+ATOM     65  CD1 LEU A   7       3.243  -0.828  -4.318  1.00  0.51           C  
+ATOM     66  CD2 LEU A   7       2.161  -3.023  -4.873  1.00  0.52           C  
+ATOM     67  N   HIS A   8      -2.173  -0.948  -5.998  1.00  0.62           N  
+ATOM     68  CA  HIS A   8      -3.172  -1.727  -6.722  1.00  0.62           C  
+ATOM     69  C   HIS A   8      -3.617  -1.010  -7.991  1.00  0.62           C  
+ATOM     70  CB  HIS A   8      -4.381  -2.011  -5.828  1.00  0.59           C  
+ATOM     71  O   HIS A   8      -3.890  -1.651  -9.009  1.00  0.62           O  
+ATOM     72  CG  HIS A   8      -5.694  -1.731  -6.487  1.00  0.58           C  
+ATOM     73  CD2 HIS A   8      -6.591  -0.736  -6.296  1.00  0.54           C  
+ATOM     74  ND1 HIS A   8      -6.216  -2.537  -7.476  1.00  0.58           N  
+ATOM     75  CE1 HIS A   8      -7.380  -2.046  -7.866  1.00  0.53           C  
+ATOM     76  NE2 HIS A   8      -7.631  -0.953  -7.165  1.00  0.51           N  
+ATOM     77  N   TRP A   9      -3.475   0.343  -7.903  1.00  0.61           N  
+ATOM     78  CA  TRP A   9      -3.790   1.079  -9.123  1.00  0.64           C  
+ATOM     79  C   TRP A   9      -2.721   0.854 -10.187  1.00  0.61           C  
+ATOM     80  CB  TRP A   9      -3.927   2.576  -8.827  1.00  0.58           C  
+ATOM     81  O   TRP A   9      -3.037   0.688 -11.367  1.00  0.61           O  
+ATOM     82  CG  TRP A   9      -4.216   3.412 -10.038  1.00  0.57           C  
+ATOM     83  CD1 TRP A   9      -5.445   3.720 -10.552  1.00  0.51           C  
+ATOM     84  CD2 TRP A   9      -3.255   4.042 -10.890  1.00  0.52           C  
+ATOM     85  CE2 TRP A   9      -3.972   4.719 -11.901  1.00  0.50           C  
+ATOM     86  CE3 TRP A   9      -1.854   4.102 -10.895  1.00  0.58           C  
+ATOM     87  NE1 TRP A   9      -5.305   4.506 -11.672  1.00  0.57           N  
+ATOM     88  CH2 TRP A   9      -1.965   5.489 -12.891  1.00  0.55           C  
+ATOM     89  CZ2 TRP A   9      -3.335   5.446 -12.909  1.00  0.59           C  
+ATOM     90  CZ3 TRP A   9      -1.223   4.827 -11.899  1.00  0.50           C  
+ATOM     91  N   HIS A  10      -1.413   0.535  -9.877  1.00  0.64           N  
+ATOM     92  CA  HIS A  10      -0.329   0.442 -10.849  1.00  0.64           C  
+ATOM     93  C   HIS A  10      -0.182  -0.982 -11.376  1.00  0.64           C  
+ATOM     94  CB  HIS A  10       0.989   0.910 -10.228  1.00  0.61           C  
+ATOM     95  O   HIS A  10       0.274  -1.187 -12.503  1.00  0.64           O  
+ATOM     96  CG  HIS A  10       2.158   0.809 -11.156  1.00  0.59           C  
+ATOM     97  CD2 HIS A  10       3.236  -0.010 -11.141  1.00  0.55           C  
+ATOM     98  ND1 HIS A  10       2.306   1.623 -12.257  1.00  0.57           N  
+ATOM     99  CE1 HIS A  10       3.428   1.308 -12.883  1.00  0.53           C  
+ATOM    100  NE2 HIS A  10       4.011   0.319 -12.226  1.00  0.51           N  
+ATOM    101  N   ILE A  11      -0.887  -1.874 -10.699  1.00  0.68           N  
+ATOM    102  CA  ILE A  11      -0.843  -3.259 -11.154  1.00  0.67           C  
+ATOM    103  C   ILE A  11      -2.212  -3.671 -11.691  1.00  0.66           C  
+ATOM    104  CB  ILE A  11      -0.403  -4.213 -10.021  1.00  0.64           C  
+ATOM    105  O   ILE A  11      -2.309  -4.534 -12.567  1.00  0.64           O  
+ATOM    106  CG1 ILE A  11       1.041  -3.914  -9.602  1.00  0.57           C  
+ATOM    107  CG2 ILE A  11      -0.556  -5.674 -10.454  1.00  0.58           C  
+ATOM    108  CD1 ILE A  11       1.494  -4.669  -8.360  1.00  0.57           C  
+ATOM    109  N   GLN A  12      -3.114  -2.875 -11.752  1.00  0.62           N  
+ATOM    110  CA  GLN A  12      -4.271  -3.153 -12.596  1.00  0.63           C  
+ATOM    111  C   GLN A  12      -4.221  -2.337 -13.884  1.00  0.61           C  
+ATOM    112  CB  GLN A  12      -5.569  -2.864 -11.841  1.00  0.58           C  
+ATOM    113  O   GLN A  12      -4.584  -2.831 -14.953  1.00  0.60           O  
+ATOM    114  CG  GLN A  12      -5.942  -3.936 -10.826  1.00  0.58           C  
+ATOM    115  CD  GLN A  12      -7.255  -3.648 -10.123  1.00  0.57           C  
+ATOM    116  NE2 GLN A  12      -7.758  -4.628  -9.380  1.00  0.47           N  
+ATOM    117  OE1 GLN A  12      -7.814  -2.553 -10.248  1.00  0.55           O  
