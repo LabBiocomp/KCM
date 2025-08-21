@@ -1,0 +1,13 @@
+a,b,c,size,symbol,opacity,fill,stroke,title
+2.7,75.4,21.8,120,circle,1,#fee6ce,#fee6ce,AT1
+1.2,64,34.8,120,circle,1,#fdae6b,#fdae6b,AT2
+5.7,35.3,59.1,120,circle,1,#fd8d3c,#fd8d3c,AT3
+0,76.9,23,120,circle,1,#d94801,#d94801,AT4
+0,71.4,28.6,120,circle,1,#a63603,#a63603,AT5
+39.3,44.7,16,120,square,1,#edf8b1,#edf8b1,NE1
+0,70.7,29.3,120,square,1,#7fcdbb,#7fcdbb,NE2
+0,85.2,14.8,120,square,1,#1d91c0,#1d91c0,NE3
+0,70.5,29.4,120,square,1,#253494,#253494,NE4
+71.4,28.6,0,120,triangle,1,#fcc5c0,#fcc5c0,NG1
+29.1,27.7,43.2,120,triangle,1,#f768a1,#f768a1,NG2
+0,91.1,8.9,120,triangle,1,#ae017e,#ae017e,NG3

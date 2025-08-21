@@ -1,0 +1,13 @@
+,A. baumannii ATCC 19606 (-),E. coli ATCC 11775 (-),E. coli AIC221 (-),E. coli AIC222 - CRE (-),K. pneumoniae ATCC 13883 (-),P. aeruginosa PAO1 (-),P. aeruginosa PA14 (-),S. aureus ATCC 12600 (+),S. aureus ATCC BAA-1556 - MRSA (+),E. faecalis ATCC 700802 - VRE (+),E. faecium ATCC 700221 - VRE (+)
+AC1,,,,,,,,,,,
+AC2,,,,,,,,,,,
+AC3,,,,,,,,,,,
+AC4,32,,,,8,,,64,16,,32
+AC5,,,,,,,,,,64,32
+NE1,32,,,,,,,,,8,16
+NE2,32,16,32,8,16,64,,,,,32
+NE3,,,,,,,,,,16,32
+NE4,,,,,,,,,,8,
+NG1,4,16,32,4,4,32,16,,,,4
+NG2,,,,,,,,,,64,64
+NG3,32,,8,16,16,,,,,,
